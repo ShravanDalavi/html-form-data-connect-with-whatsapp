@@ -11,11 +11,11 @@ The system comprises three main components:
 2.	JavaScript: Handles form submission and sends data to WhatsApp.
 3.	CSS: Styles the form for a user-friendly interface.
 # Features
-## User Interface##
+## User Interface ##
 •	Responsive Design: The form is styled to be visually appealing and user-friendly.
 •	Form Fields: Includes fields for Name, Email, and Message.
 •	Submission Button: A button to submit the form data.
-## Functionality##
+## Functionality ##
 •	Data Collection: Collects user input from the form fields.
 •	WhatsApp Integration: Uses the WhatsApp API to send data as a message.
 •	Dynamic Message Creation: Constructs a message string with the form data.
@@ -30,7 +30,7 @@ The system comprises three main components:
 
 
 # Integration with WhatsApp
-## How it Works##
+## How it Works ##
 1.	User Input: The user fills out the form with their name, email, and message.
 2.	Form Submission: Upon clicking the submit button, the send To WhatsApp function is invoked.
 3.	Message Construction: The function constructs a URL with the form data.
