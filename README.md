@@ -6,8 +6,6 @@ A Pen created on CodePen.io. Original URL: [https://codepen.io/Shravan-Dalavi/pe
 WhatsApp Web is a web-based extension of the popular WhatsApp messaging application. It allows users to access their WhatsApp conversations and send/receive messages directly from their web browsers. Integrating HTML forms with WhatsApp Web can enhance user experience and streamline communication.
 
 # System Architecture
-![Sheet system](https://github.com/ShravanDalavi/html-form-data-connect-with-whatsapp/assets/172488772/ea8988ee-9749-40aa-ade5-c5461232b6ed)
-
 The system comprises three main components:
 1.	HTML Form: A simple form collecting user data.
 2.	JavaScript: Handles form submission and sends data to WhatsApp.
@@ -22,7 +20,16 @@ The system comprises three main components:
 •	WhatsApp Integration: Uses the WhatsApp API to send data as a message.
 •	Dynamic Message Creation: Constructs a message string with the form data.
 # Implementation Diagrams
-![Sheet Data Flow](https://github.com/ShravanDalavi/html-form-data-connect-with-whatsapp/assets/172488772/9bd13d56-c50c-4b14-82dc-403a1cbff9a7)
+1.	Create an HTML Form: Design a form with fields for the user to fill out. This form will collect the data that you want to send to WhatsApp.
+2.	Write a JavaScript Function: Develop a JavaScript function that will be triggered when the form is submitted. This function will handle the data from the form and format it into a message.
+3.	Integrate WhatsApp API: Use the WhatsApp API to send the formatted message. You’ll need to set up an account with WhatsApp Business API and get access credentials.
+4.	Open WhatsApp Chat: The API will use the message data to open a chat window in the user’s WhatsApp application, allowing them to send the message.
+
+# System Architecture Diagram
+![whatsapp system](https://github.com/ShravanDalavi/html-form-data-connect-with-whatsapp/assets/172488772/a07b3df9-dd32-49e5-96cd-57bd33151809)
+
+# Data Flow Diagram
+![whatsapp Data Flow](https://github.com/ShravanDalavi/html-form-data-connect-with-whatsapp/assets/172488772/82076f33-f42f-45b3-bb59-b839dd54333a)
 
 # Integration with WhatsApp
 ## How it Works ##
