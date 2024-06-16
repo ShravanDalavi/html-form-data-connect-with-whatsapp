@@ -22,14 +22,7 @@ The system comprises three main components:
 •	WhatsApp Integration: Uses the WhatsApp API to send data as a message.
 •	Dynamic Message Creation: Constructs a message string with the form data.
 # Implementation Diagrams
-
-
-
-
-
-
-
-
+![Sheet Data Flow](https://github.com/ShravanDalavi/html-form-data-connect-with-whatsapp/assets/172488772/9bd13d56-c50c-4b14-82dc-403a1cbff9a7)
 
 # Integration with WhatsApp
 ## How it Works ##
