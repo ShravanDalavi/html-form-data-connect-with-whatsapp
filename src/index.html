@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<link rel="stylesheet" href="whatsapp.css">
+</head>
+<body>
+	<div class="container">
+		<h4>Contact Us</h4>
+		<p>For inquiries, feedback, or collaboration opportunities, please get in touch.</p>
+		
+		<form action="">
+			<div>
+				<span>
+					<label for="name">Name :</label><br/>
+					<input id="name" type="text" placeholder=""required >
+				</span>
+				<span>
+					<label for="Subject">Subject :</label></br>
+					<input id="Subject" type="text" placeholder=""required>
+				</span>
+				<span>
+					<label for="email">Email :</label></br>
+					<input id="email" type="email" placeholder=""required>
+				</span>
+			</div>
+			<label for="message">Your Message :</label><br/>
+			<textarea name="" id="message" rows="10" placeholder=""required></textarea>
+			<button onclick="sendToWhatsapp()">Submit</button>
+			
+		</form>
+	</div>
+
+	<script src="whatsapp.js"></script>
+</body>
+</html>
+
+
+
