@@ -11,6 +11,7 @@ The system comprises three main components:
 1.	HTML Form: A simple form collecting user data.
 2.	JavaScript: Handles form submission and sends data to WhatsApp.
 3.	CSS: Styles the form for a user-friendly interface.
+
 # Features
 ## User Interface ##
 •	Responsive Design: The form is styled to be visually appealing and user-friendly.
@@ -28,7 +29,6 @@ The system comprises three main components:
 
 # System Architecture Diagram
 ![whatsapp system](https://github.com/ShravanDalavi/html-form-data-connect-with-whatsapp/assets/172488772/a07b3df9-dd32-49e5-96cd-57bd33151809)
-
 # Data Flow Diagram
 ![whatsapp Data Flow](https://github.com/ShravanDalavi/html-form-data-connect-with-whatsapp/assets/172488772/82076f33-f42f-45b3-bb59-b839dd54333a)
 
