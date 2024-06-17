@@ -40,7 +40,7 @@ The system comprises three main components:
 Integrating HTML form data with WhatsApp Web streamlines communication and enhances user engagement. The implementation is straightforward, involving basic HTML, CSS, and JavaScript. This integration provides a seamless way to connect with users and receive their inquiries or feedback directly through WhatsApp.
 # References
 1.	MDN Web Docs: HTML, CSS, JavaScript
-2.	How can I send HTML enquiry form data to multiple WhatsApp contacts
+2.	[How can I send HTML enquiry form data to multiple WhatsApp contacts](https://stackoverflow.com/questions/76647007/how-can-i-send-html-enquiry-form-data-to-multiple-whatsapp-contact)
    
 ## Contributors
 
