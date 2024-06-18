@@ -35,6 +35,7 @@ The system comprises three main components:
 4.	WhatsApp API: The URL is opened in a new tab, redirecting to WhatsApp Web with a pre-filled message.
 ## Advantages ##
 •	Direct Communication: Allows for immediate interaction with users via WhatsApp.
+
 •	Ease of Use: Users can send messages without needing to manually enter details.
 # Conclusion
 Integrating HTML form data with WhatsApp Web streamlines communication and enhances user engagement. The implementation is straightforward, involving basic HTML, CSS, and JavaScript. This integration provides a seamless way to connect with users and receive their inquiries or feedback directly through WhatsApp.
