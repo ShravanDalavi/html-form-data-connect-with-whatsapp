@@ -2,6 +2,7 @@
 ![image](https://github.com/ShravanDalavi/html-form-data-connect-with-whatsapp/assets/172488772/3dddd286-ad12-43b0-ad00-28c2c717767e)
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/Shravan-Dalavi/pen/vYwWExv](https://codepen.io/Shravan-Dalavi/pen/vYwWExv).
+
 # Introduction
 WhatsApp Web is a web-based extension of the popular WhatsApp messaging application. It allows users to access their WhatsApp conversations and send/receive messages directly from their web browsers. Integrating HTML forms with WhatsApp Web can enhance user experience and streamline communication.
 # System Architecture
