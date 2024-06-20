@@ -28,6 +28,7 @@ The system comprises three main components:
 2.	Write a JavaScript Function: Develop a JavaScript function that will be triggered when the form is submitted. This function will handle the data from the form and format it into a message.
 3.	Integrate WhatsApp API: Use the WhatsApp API to send the formatted message. You’ll need to set up an account with WhatsApp Business API and get access credentials.
 4.	Open WhatsApp Chat: The API will use the message data to open a chat window in the user’s WhatsApp application, allowing them to send the message.
+   
 # System Architecture Diagram
 ![whatsapp system](https://github.com/ShravanDalavi/html-form-data-connect-with-whatsapp/assets/172488772/a07b3df9-dd32-49e5-96cd-57bd33151809)
 # Data Flow Diagram
