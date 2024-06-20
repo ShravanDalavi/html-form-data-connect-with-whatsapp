@@ -33,6 +33,7 @@ The system comprises three main components:
 ![whatsapp system](https://github.com/ShravanDalavi/html-form-data-connect-with-whatsapp/assets/172488772/a07b3df9-dd32-49e5-96cd-57bd33151809)
 # Data Flow Diagram
 ![whatsapp Data Flow](https://github.com/ShravanDalavi/html-form-data-connect-with-whatsapp/assets/172488772/82076f33-f42f-45b3-bb59-b839dd54333a)
+
 # Integration with WhatsApp
 ## How it Works ##
 1.	User Input: The user fills out the form with their name, email, and message.
