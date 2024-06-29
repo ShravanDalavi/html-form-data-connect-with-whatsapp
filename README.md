@@ -50,11 +50,17 @@ Integrating HTML form data with WhatsApp Web streamlines communication and enhan
 1.	MDN Web Docs: HTML, CSS, JavaScript
 2.	[How can I send HTML enquiry form data to multiple WhatsApp contacts](https://stackoverflow.com/questions/76647007/how-can-i-send-html-enquiry-form-data-to-multiple-whatsapp-contact)
    
-## Contributors
+## Licence 📜
+You may use this tutorial freely at your own risk. See [LICENSE](./LICENSE).
 
+
+## Contributors ✨
 - Shravan Dalavi
   - Contact: shravandalavi137@gmail.com
   - GitHub: [Profile](https://github.com/ShravanDalavi)
 - Ashwini Sonawane
   - Contact: ashwinisonawane@gmail.com
   - GitHub:  [Email](https://github.com/SonawaneAshwini)
+
+
+**If you like this tutorial, please [give it a ⭐ star](https://github.com/ShravanDalavi/html-form-data-connect-with-whatsapp).**
