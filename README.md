@@ -2,7 +2,7 @@
 ![image](https://github.com/ShravanDalavi/html-form-data-connect-with-whatsapp/assets/172488772/3dddd286-ad12-43b0-ad00-28c2c717767e)
 
 **[Link to demo](https://z7rhpg.csb.app/)**
-👉👉 ( This demo website does not mention mobile  number on back end then only redirects not showing number )
+👉👉 ( This demo website does not mention mobile  number on back end then only redirects  )
 
 🌐 On this demo website, we haven’t added  mobile number in the backend 🔒—feel free to add your own number ☎️ or use this form 📋
 
